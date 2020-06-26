@@ -10,6 +10,8 @@ window.addEventListener("load", () => {
   let temperatureSection = document.querySelector(".temperature");
   let temperatureSpan = document.querySelector(".temperature span");
 
+  
+  //Requires geoLocation to track your current location
   if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(postion => {
       long = postion.coords.longitude;
