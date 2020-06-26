@@ -3,7 +3,7 @@ Live-Weather App
 
 Tracks Live Weather of your current Area by tracking your location
 
-Features:
+ # Features:
 * Gives the summary of the weather.
 * Shows  Fahrenheit
 * Shows Celsius (Click on the Fahrenheit)
