@@ -1,3 +1,7 @@
+/********
+Plugin of skycons.js, Credits can be found in the ReadMe.md file.
+********/
+
 (function(global) {
     "use strict";
   
