@@ -18,6 +18,6 @@ Tracks Live Weather of your current Area by tracking your location
 
 
 # Credits : 
-* [DeltaCoderr](https://github.com/DeltaCoderr) - Lead Developer(HTML,CSS,JS).
+* [DeltaCoderr](https://github.com/DeltaCoderr) - Lead Developer (HTML, CSS, JS).
 * [Skycons.js](https://github.com/maxdow/skycons) - For the Weather Icon to display. 
 * [DarkSky API](https://darksky.net/dev) - For the API 
