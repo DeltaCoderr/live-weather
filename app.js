@@ -26,6 +26,7 @@ window.addEventListener("load", () => {
           return response.json();
         })
         .then(data => {
+        //Logs the data you can find it in the browser's console.
           console.log(data);
           const { temperature, summary, icon } = data.currently;
           //Set DOM elements from API
