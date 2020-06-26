@@ -18,6 +18,7 @@ window.addEventListener("load", () => {
       lat = postion.coords.latitude;
       //Access the api from proxy
       const proxy = "https://cors-anywhere.herokuapp.com/";
+      //Your API goes here 
       const api = `${proxy}[your API here]${lat},${long}`;
 
       fetch(api)
@@ -50,6 +51,7 @@ window.addEventListener("load", () => {
           });
         });
     });
+    //function of setIcons
     function setIcons(icon, iconID) {
       const skycons = new Skycons({ color: "white" });
       const currentIcon = icon.replace(/-/g, "_").toUpperCase();
