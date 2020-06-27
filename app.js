@@ -31,7 +31,7 @@ window.addEventListener("load", () => {
           const { temperature, summary, icon } = data.currently;
           //Set DOM elements from API
           temperatureDegree.textContent = temperature;
-          temperatureDescription.textContent = summary;
+          temperatureDescription.textContent =  `Status - ${summary}`;
           locationTimezone.textContent = data.timezone;
 
           //Formula For Celsius
