@@ -1,7 +1,7 @@
 Live-Weather App
 =================
 
-Tracks Live Weather of your current Area by tracking your location
+Tracks Live Weather of your current Area by tracking your location.
 
  # Features :
 * Gives the summary of the weather.
