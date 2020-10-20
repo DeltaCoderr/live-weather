@@ -12,6 +12,8 @@ Tracks Live Weather of your current Area by tracking your location.
 
 
 ## 💨 Run the projects :
+ * **Glitch:** [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/DeltaCoderr/live-weather)
+* **Repl:** [![Run on Repl.it](https://repl.it/badge/github/DeltaCoderr/live-weather)](https://repl.it/github/DeltaCoderr/live-weather)
 
 # Setup : 
 1. Download this project and unzip it.
