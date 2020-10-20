@@ -15,7 +15,7 @@ Tracks Live Weather of your current Area by tracking your location.
  * **Glitch:** [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/DeltaCoderr/live-weather)
 * **Repl:** [![Run on Repl.it](https://repl.it/badge/github/DeltaCoderr/live-weather)](https://repl.it/github/DeltaCoderr/live-weather)
 
-# Setup : 
+# 💫 Setup : 
 1. Download this project and unzip it.
 2. Take the API from the [DarkSky Website](https://darksky.net/dev) [Requires you to Log In].
 3. Host the website and enable the geoLocation so that the browser can track your location.
