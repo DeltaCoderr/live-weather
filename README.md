@@ -17,7 +17,7 @@ Tracks Live Weather of your current Area by tracking your location.
 4. If you get the message ``"The Website is Up!"`` in the browser's console then you are good.
 
 
-# Credits : 
+# ✨ Credits : 
 * [DeltaCoderr](https://github.com/DeltaCoderr) - Lead Developer (HTML, CSS, JS).
 * [Skycons.js](https://github.com/maxdow/skycons) - For the Weather Icon to display. 
 * [DarkSky API](https://darksky.net/dev) - For the API.
