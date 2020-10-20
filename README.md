@@ -10,6 +10,9 @@ Tracks Live Weather of your current Area by tracking your location.
 * Shows the Current location. 
 * Gives an idea about the weather by the help of an weather Icon.
 
+
+## 💨 Run the projects :
+
 # Setup : 
 1. Download this project and unzip it.
 2. Take the API from the [DarkSky Website](https://darksky.net/dev) [Requires you to Log In].
