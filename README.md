@@ -1,3 +1,7 @@
+# 🔒 Important Note :
+ **This project is archived since DarkSky API is no longer accepting new sign ups. You can read more Info [Here](https://blog.darksky.net)
+( I'll prolly update the repo and Unarchive it in the near future with a new API, Once I get time to do it. )**
+
 Live-Weather App
 =================
 
